@@ -3,6 +3,4 @@
 ### Key Features
 
 - **Standardized Dataset**: Unified format for optical network representations, incorporating geographical and topological data.
-- **Enhanced Traffic Matrix Simulation**: Moves beyond traditional methods by integrating data from data centers and IXPs.
-- **Customizable Traffic Generation**: Based on specific countries or regions using our intelligent model.
 - **Open and Accessible**: Facilitates collaboration and reduces duplication of efforts in network research.
